@@ -8,5 +8,5 @@ import java.util.Map;
 @Getter
 public class WebhookRequest {
     private Map<String, String> headers;
-    private String payLoad;
+    private String payload;
 }

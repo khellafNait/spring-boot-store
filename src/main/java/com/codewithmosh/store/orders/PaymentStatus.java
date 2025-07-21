@@ -1,4 +1,4 @@
-package com.codewithmosh.store.payments;
+package com.codewithmosh.store.orders;
 
 public enum PaymentStatus {
     PENDING,
